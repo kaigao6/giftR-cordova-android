@@ -2,6 +2,10 @@
 
 Project Name: GiftR
 
+All source code path: giftR-cordova-android/giftRProjectfoler/www/
+
+JS file path: giftR-cordova-android/giftRProjectfoler/www/js/main.js
+
 This is a Cordova Android App that lets people store gift ideas.
 
 There are two main screens and two modal popups. 
