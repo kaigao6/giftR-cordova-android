@@ -21,4 +21,4 @@ Other features:
 1. When saving a person, set a local notification reminder for 10 days before their birthday and make it recur each year.
 2. Access the contacts on the device, using the cordova-plugin-contacts plugin and allow the app user to import people from the contacts.
 3. Allow the user to take pictures of the gifts, save them in the device, and display the images along with the idea, location, cost, etc.
-4. On the edit screen allow the user to delete a person (including their gifts and the images of the gifts) 
+4. On the edit screen allow the user to delete a person (including their gifts and the images of the gifts).
