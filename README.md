@@ -8,7 +8,7 @@ JS file path: giftR-cordova-android/giftRProjectfoler/www/js/main.js
 
 This is a Cordova Android App that lets people store gift ideas.
 
-There are two main screens and two modal popups. 
+There are two main screens and two modal popups
 
 The first screen is the list of people that you have added to the app sorted by their birthdays. Each person has an arrow to navigate to the second page, a list of gift ideas for that person. The person screen also has a button to open a modal popup to add a new person. Clicking on a person's name from the list, also opens the same modal popup but it allows the user to edit the person instead of adding a new one.
 
